@@ -1,4 +1,4 @@
-# Practis-exercies-Java-advanced
+# Practise-exercies-Java-advanced
 Exercies-Java-advanced course @ Software University
 
 1.	Energy Drinks
